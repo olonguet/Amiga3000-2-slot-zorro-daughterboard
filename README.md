@@ -1,4 +1,4 @@
-# Amiga3000-2-slot-zorro-daughterboard
+# Amiga 3000 2 slot Zorro Daughterboard
 
 <img width="1158" height="501" alt="1000 - Copy (2)" src="https://github.com/user-attachments/assets/7d80787d-fb05-44e8-8173-44d9a2d1791f" />
 
