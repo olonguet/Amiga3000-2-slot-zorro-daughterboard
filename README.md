@@ -7,6 +7,7 @@ Using Ians Bremmer ( https://github.com/iansbremner/Amiga-3000-Daughterboard ) r
 I decided to make it a minimalist 2 slot version needing the bare mimimum for the A3000 to boot. 
 
 This is part of a bigger project involving a 3D printable kit to fit an Amiga3000 into a Checkmate 1500 case: https://www.thingiverse.com/thing:7326858
+
 https://www.youtube.com/watch?v=aT_P7sj8tz4
 
 NOTE: If you want a strict mimimum version, populating RP605 ahd RP608 should be all that's needed to power your A3000 
