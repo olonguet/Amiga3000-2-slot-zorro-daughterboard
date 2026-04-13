@@ -1,0 +1,11 @@
+Id,Designator,Package,Quantity,Designation,Part Number,URL
+1,"R601,R603",Resistor,2,470,SFR2500004700JA500,https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/SFR2500004700JA500?qs=sGAEpiMZZMsxiS4eJwGuBsiJNdA%252B9Fd9w%252BWf%2Fvw%252Bn2c%3D
+2,"R602,R600",Resistor,2,1K,MRS16000C1001FC100,https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MRS16000C1001FC100?qs=H30XFsNYD%2FFkwG5feJdbgw%3D%3D
+3,"C602,C603,C601,C600",CP_Axial_L21.0mm_D8.0mm_P28.00mm_Horizontal,2,220uF 16V,MAL203135221E3,https://www.mouser.co.uk/ProductDetail/Vishay-BC-Components/MAL203135221E3?qs=4T%252B5yYZyZYdCTfsAS92uLQ%3D%3D
+4,"C1,C604,C606",C_Axial_L5.1mm_D3.1mm_P7.50mm_Horizontal,2,0.1uF,A104K15X7RH5UAAP,https://www.mouser.ie/ProductDetail/594-A104K15X7RH5UAAP
+5,RP608,R_Array_SIP6,1,220/330,4606X-104-221/331L,https://www.mouser.co.uk/ProductDetail/Bourns/4606X-104-221-331L?qs=LaphGdK53R62nJP%252Bgwdp0w%3D%3D
+6,"RP603,RP602,RP604,RP605,RP606,RP607",R_Array_SIP10,6,220/330,4610X-104-221/331LF,https://www.mouser.co.uk/ProductDetail/Bourns/4606X-104-221-331L?qs=LaphGdK53R62nJP%252Bgwdp0w%3D%3D
+7,RP611,R_Array_SIP6,1,1K, 4610X-104-221/331LF ,https://www.mouser.co.uk/ProductDetail/Bourns/4606M-101-102LF?qs=5DXzRwmrLHFQqRAYa1Gabg%3D%3D
+8,U600,DIP-14_W7.62mm,1,74HCT32,CD74HCT32EE4,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD74HCT32EE4?qs=xFfolx0DHx2nbN4wbr6qGA%3D%3D
+9,U601,DIP-14_W7.62mm,1,7407,SN7407N,https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN7407N?qs=sGAEpiMZZMv0NwlthflBi6R2CPM2cSOQ
+10,"CN601,CN600",Standard Card Edge Connectors CONN SEC II 100POS 100C/L,2,Zorro-III,2-5530843-2,https://www.mouser.co.uk/ProductDetail/TE-Connectivity-AMP/2-5530843-2?qs=sGAEpiMZZMukxKgYRb08uNw6NuR7wjr%252BzMa4izA956o%3D
