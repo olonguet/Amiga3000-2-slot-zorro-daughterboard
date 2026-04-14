@@ -12,6 +12,6 @@ This is part of a bigger project involving a 3D printable kit to fit an Amiga300
 
 https://www.youtube.com/watch?v=aT_P7sj8tz4
 
-NOTE: If you want a strict mimimum version, populating RP605 ahd RP608 should be all that's needed to power your A3000 
+NOTE: If you want a strict mimimum version, populating RP605 should be all that's needed to power your A3000. RP605 It's a dual terminator resistor pack so pin 1 is a pull down to ground at 330 and pin 8 is a pull up at 220 to +5v 
 
-![20260413_172922](https://github.com/user-attachments/assets/194e2a23-87f7-40fd-9f93-5f21256faa85)
+![20260414_131947](https://github.com/user-attachments/assets/f5f2c911-a77a-4a35-8421-9d5f8c5f6773)
